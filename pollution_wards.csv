@@ -1,0 +1,26 @@
+OBJECTID *,AREA_ID,AREA_TYPE,AREA_S_CD,AREA_L_CD,AREA_NAME,X,Y,LONGITUDE,LATITUDE,Company,Facility,Address,Emission,Tonnes,Ward,Field7
+1,2551044,WD18,3,3,Etobicoke-Lakeshore,303099.474,4831000,-79.52087,43.621646,Autotek Electroplating Inc.,<Null>,20 Huddersfield Dr,Hydrochloric Acid,0.43,1,<Null>
+2,2551048,WD18,15,15,Don Valley West,314825.876,4843000,-79.37536,43.728396,"ABC Group, Inc.",ABC Interior Systems,10 Disco Rd.,2 – Butoxyethanol,1.61,2,<Null>
+3,2551052,WD18,23,23,Scarborough North,324522.149,4852000,-79.25467,43.809672,Parmalat Dairy & Bakery Inc.,<Null>,25 Rakely Court,Oxides Of Nitrogen (Expressed As No2),1.83,3,<Null>
+4,2551035,WD18,10,10,Spadina-Fort York,313874.844,4833000,-79.38733,43.635801,Active Metal Finishing Co. Ltd.,<Null>,43 Advance Road,Cadmium (And Its Compounds),0,5,<Null>
+5,2551039,WD18,9,9,Davenport,309296.325,4836000,-79.44405,43.669353,Alberto-Culver Canada Inc.,Kipling Avenue Facility,506 Kipling Avenue,PM10 - Particulate Matter <= 10 Microns,10.88,6,<Null>
+6,2551037,WD18,5,5,York South-Weston,305318.582,4839000,-79.49337,43.694951,Armco Inc.,<Null>,3700 Weston Road,Isopropyl Alcohol,0.1,7,<Null>
+7,2551041,WD18,17,17,Don Valley North,316048.951,4850000,-79.36004,43.787602,Booth Centennial Healthcare Linen Services,<Null>,75 Norfinch Drive,PM10 - Particulate Matter <= 10 Microns,0.62,8,<Null>
+8,2551042,WD18,8,8,Eglinton-Lawrence,310114.447,4842000,-79.43385,43.718315,Bombardier Aerospace,Toronto Site,123 Garratt Blvd.,Hexavalent Chromium Compounds,0.09,9,<Null>
+9,2551043,WD18,2,2,Etobicoke Centre,300547.32,4836000,-79.55253,43.664431,Aventis Pasteur Limited,Connaught Campus,1755 Steeles Avenue West,Oxides Of Nitrogen (Expressed As No2),42,10,<Null>
+10,2551045,WD18,1,1,Etobicoke North,297962.207,4842000,-79.58467,43.719405,Bunge Canada,Toronto Plant,30 Weston Road,PM10 - Particulate Matter <= 10 Microns,1.1,11,<Null>
+11,2551046,WD18,4,4,Parkdale-High Park,307418.757,4834000,-79.46734,43.650121,Joseph Robertson Foundries Limited,<Null>,24 Milford Avenue,Lead (And Its Compounds),0.11,12,<Null>
+12,2551050,WD18,21,21,Scarborough Centre,322773.613,4846000,-79.27661,43.752739,Dovercourt Electroplating Co. Ltd.,<Null>,304 Bridgeland Ave,Hydrochloric Acid,0,15,<Null>
+13,2551053,WD18,25,25,Scarborough-Rouge Park,330785.479,4852000,-79.17684,43.805647,John E Goudey Mfg,<Null>,21 Primrose Ave,Toluene,0.1,17,<Null>
+14,2551054,WD18,20,20,Scarborough Southwest,324140.669,4841000,-79.25979,43.713627,Cadbury Adams Canada Inc.,Gladstone Manufacturing Site,277 Gladstone Avenue,PM2.5 - Particulate Matter <= 2.5 Microns,0.38,18,<Null>
+15,2551055,WD18,19,19,Beaches-East York,320369.412,4839000,-79.30667,43.689268,CBM Ready Mix,CBM Bathurst Plant 8 (1/3),22 Bathurst St,PM10 - Particulate Matter <= 10 Microns,1.58,19,<Null>
+16,2551057,WD18,18,18,Willowdale,311505.921,4848000,-79.4165,43.776886,Enwave District Energy Limited,Pearl Street Steam Plant (1/2),120 Pearl Street,Oxides Of Nitrogen (Expressed As No2),63.6,20,<Null>
+17,2551038,WD18,13,13,Toronto Centre,315261.145,4835000,-79.3701,43.660143,Communisis McCorquodale Limited,<Null>,30 Tempo Avenue,Toluene,30.88,24,<Null>
+18,2551040,WD18,16,16,Don Valley East,318237.29,4844000,-79.33298,43.739716,<Null>,<Null>,<Null>,<Null>,10.61,25,<Null>
+19,2551056,WD18,11,11,University-Rosedale,313306.543,4837000,-79.39432,43.671139,<Null>,<Null>,<Null>,<Null>,10.83,26,<Null>
+20,2551047,WD18,12,12,Toronto-St. Paul's,311717.97,4839000,-79.41399,43.69053,<Null>,<Null>,<Null>,<Null>,10.1,27,<Null>
+21,2551049,WD18,22,22,Scarborough-Agincourt,320224.14,4851000,-79.30813,43.796483,<Null>,<Null>,<Null>,<Null>,23.1,28,<Null>
+22,2551051,WD18,24,24,Scarborough-Guildwood,327757.546,4847000,-79.21466,43.765798,<Null>,<Null>,<Null>,<Null>,56.1,29,<Null>
+23,2551058,WD18,6,6,York Centre,307376.567,4846000,-79.46781,43.752565,<Null>,<Null>,<Null>,<Null>,24.1,30,<Null>
+24,2551059,WD18,7,7,Humber River-Black Creek,302346.414,4845000,-79.53027,43.750724,<Null>,<Null>,<Null>,<Null>,11.1,31,<Null>
+25,2551036,WD18,14,14,Toronto-Danforth,317748.204,4836000,-79.33925,43.665974,<Null>,<Null>,<Null>,<Null>,19,32,<Null>
